@@ -1,0 +1,11 @@
+To run the game, place 2 bots inside the bots directory, and run the following command:
+
+java -Djruby.compat.version=1.9 -jar local_tournament.jar [size]
+
+where [size] is the dimensions of the dots and boxes game
+
+BotsSubBench contains older versions of my bot.
+
+Enjoy :)
+
+PS: The game engine was developed by Vikhyat http://vikhyat.net/ 
